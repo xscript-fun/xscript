@@ -1,5 +1,5 @@
 # xscript
 
 ### index /nvm
-- [install.sh]
-- [install-no-profile.sh]
+- [install.sh](install.sh)
+- [install-no-profile.sh](install-no-profile.sh)
