@@ -1,4 +1,4 @@
 # xscript
 
 ### index
-- [nvm]
+- [nvm](/nvm)
